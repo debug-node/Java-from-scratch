@@ -44,14 +44,16 @@ A beginner-friendly Java project to learn core Java concepts from the ground up.
    javac Main.java
    java Main
    ```
+---
 
 ## 📁 Project Structure
-
 
 Java-from-scratch/
  ├─ src/             ← Java source code
  ├─ examples/        ← Sample programs demonstrating topics
  ├─ README.md        ← this file
+
+---
 
 ## ✅ How to Contribute / Use It
 - Try writing small Java programs using concepts learned
@@ -59,7 +61,7 @@ Java-from-scratch/
 - Feel free to add your own examples or exercises
 
 - If you find bugs or improvements, submit pull requests
-
+---
 ## 🧑‍💻 Author
 
 -  **debug-node**
