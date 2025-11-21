@@ -1,4 +1,4 @@
-# Java From Scratch
+# Java From Scratch With DSA
 
 A beginner-friendly Java project to learn core Java concepts from the ground up.
 
