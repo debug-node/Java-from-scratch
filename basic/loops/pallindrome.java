@@ -1,4 +1,4 @@
-package basic;
+package basic.loops;
 import java.util.*;
 class pallindrome
 {

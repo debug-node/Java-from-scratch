@@ -1,3 +1,4 @@
+package basic.loops;
 import java.util.Scanner;
 
 public class solution2 {

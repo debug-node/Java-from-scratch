@@ -1,4 +1,4 @@
-package basic;
+package basic.simple;
 
 /**
  * This is the Demo class inside the basic package.

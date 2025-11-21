@@ -1,4 +1,4 @@
-package basic;
+package basic.simple;
 public class Number{
     public static void main (String[] args){
         int dec = 152;

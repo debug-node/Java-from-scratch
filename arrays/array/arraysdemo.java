@@ -1,4 +1,4 @@
-package basic;
+package arrays.array;
 import java.util.Arrays;
 
 public class arraysdemo {
