@@ -19,8 +19,8 @@ public class PrimitiveAndRefferenceTypesComparison {
 		Integer i4 = 127;
 		System.out.println("i3 == i4: " + (i3 == i4));			// true
 		
-		Integer i5 = new Integer(127);
-		Integer i6 = new Integer(127);
+		Integer i5 = Integer.valueOf(127);
+		Integer i6 = Integer.valueOf(127);
 		System.out.println("i5 == i6: " + (i5 == i6));			// false
 		
 		Integer i7 = Integer.valueOf(127);

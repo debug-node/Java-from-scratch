@@ -10,14 +10,22 @@ public class ExpressionTypeExample {
 		char c = 1;
 
 		int intExpressionType = b + b; 			// int
+		System.err.println(intExpressionType);
+
 		int intExpressionType2 = s + s; 		// int
+		System.out.println(intExpressionType2);
+
 		int intExpressionType3 = b + i + c; 	// int
+		System.out.println(intExpressionType3);
 
 		long longExpressionType = i + l; 		// long
+		System.out.println(longExpressionType);
 
 		float floatExpressionType = l + f;		// float
+		System.out.println(floatExpressionType);
 
 		double doubleExpressionType = f + d;	// double
+		System.out.println(doubleExpressionType);
 
 		System.out.println(10 / 3); // 3
 		System.out.println(10.0 / 3); // 3.3333333333333335
